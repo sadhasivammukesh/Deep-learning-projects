@@ -1,7 +1,7 @@
 # Deep-learning-projects
 📌 Project Overview
 
-This project implements real-time object detection using YOLOv3 on a Raspberry Pi 4, optimized with the OpenVINO Toolkit for faster inference. The system efficiently detects objects in real time while ensuring performance improvements on edge devices like Raspberry Pi.
+This project implements real-time object detection using YOLOv3 on a Raspberry Pi 4, optimized with the OpenVINO Toolkit for faster inference. The system efficiently detects objects in real time while ensuring performance improvements on edge devices like Raspberry Pi and you can see the accuracy in below link https://youtu.be/_kIqQmBJfj0
 
 🚀 Features
 
